@@ -2,13 +2,13 @@
 nvidia CUDA kernel implementation color to gray image conversion
 make and cmake compile and link
 
-### first way:  
+### first way to compile:  
 mkdir build  
 cd build  
 cmake ..  
 make  
 
-### second way:  
+### second way to compile:  
 just use Makefile,  
 make  
 
