@@ -1,6 +1,6 @@
-### About  
+# color2grayCuda  
 nvidia CUDA kernel implementation color to gray image conversion
-make and cmake compile 
+make and cmake compile and link
 
 ### first way:  
 mkdir build  
