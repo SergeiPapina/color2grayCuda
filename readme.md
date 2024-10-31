@@ -1,3 +1,7 @@
+### About  
+nvidia CUDA kernel implementation color to gray image conversion
+make and cmake compile 
+
 ### first way:  
 mkdir build  
 cd build  
